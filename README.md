@@ -1,4 +1,4 @@
-## What's Up, I’m @SidCodesStuff (AKA @SidCodes)
+## What's Up, I’m Sid (AKA @SidCodesStuff, AKA @SidCodes)
 I’m interested in all things programming, looking to connect with other developers.
 Also looking to get more involved in the Open Source space.
 ### Hit me up on Twitter (@SidCodes) or Youtube (Sid Codes)
